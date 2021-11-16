@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@aws-cdk/core": "1.47.0",
-    "aws-sdk": "^2.719.0",
+    "aws-sdk": "^2.814.0",
     "source-map-support": "^0.5.16"
   }
 }
